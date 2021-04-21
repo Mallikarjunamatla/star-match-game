@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
 
 
-// Stars Display
+// StarsDisplay
 
 const StarsDisplay = props => (
   <>
